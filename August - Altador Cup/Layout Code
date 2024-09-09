@@ -1,0 +1,90 @@
+<style>
+#header, #footer, .sidebar, #ban, table table table table table, .contentHeader, .contentModuleHeaderAlt, .contentHeader a, .content table table img {display: none;}
+.content table .content table img {display: inline;}
+.contentHeader, #ban,#header,#footer,.sidebar, table table table table table {display:none}
+#main {top: 0px;left: 0px;border: none;padding: 0px;padding-bottom: 50px;height: auto;width: 90%;background: top left no-repeat;overflow: hidden;}
+table, td, tr {background:none;overflow: hidden;}
+.content p{margin-top: -10px;}
+body {background: url("https://imgur.com/GkAzqRT.jpeg") left top no-repeat #54778f;}
+table table table table {background: none;width: 200px;margin-left: -10px;margin-top: 340px; padding: 15px;}
+
+
+td font, td font b {font: italic 8pt georgia;line-height: 12px !important;color:  #000;line-height: 115% !important;}
+#box {
+	top: 430px;
+	left: 260px;
+	width: 420px;
+	height: 290px;
+	overflow: auto;
+	padding: 0px;
+	padding-bottom: 100%;
+}
+#boxtext {width: 100% !important;height: 70%;overflow: auto !important;padding-right: 60px;
+padding-top: 0px; text-align: center;}
+a:link, a:visited {color: #34a0db;text-decoration: none;}
+a:hover {text-decoration: line-through;}
+b {color: #e0c105 !important}
+i {color: #640000;}
+h2 {font: bold 14pt century gothic;color: #54778f;text-transform: uppercase;letter-spacing: 3px;}
+
+.nav {top:640px;
+left: 285px;
+height: 40px;
+text-align: center;
+display: inline;z-index: 999;
+}
+
+.nav a:link, .nav a:visited {
+font: bold 10pt georgia;
+line-height: 12px;
+text-transform: uppercase;margin: 18px;
+letter-spacing: 2px;
+float: center;
+text-decoration: none;
+color: #54778f;
+background: white;}
+
+.nav a:hover {
+color: #000;
+text-decoration: line-through;}
+
+ul {text-align: left;}
+li {list-style-image: url(hhttps://imgur.com/nfTsENh.gif) !important;text-align: left;}
+#badges img {margin: 3px;}
+</style>
+<div id="nav" class="nav" style="position: absolute;">
+<a href="/~quirkia">Portal</a>
+<a href="/~reposessionx">Webbie</a>
+<a href="/neoboards/topic.phtml?topic=163316258">Board</a>
+</div>
+
+<div id="box" style="position: absolute;">
+<div id="boxtext">
+<H2><center>★ Q U I R K Y ★<br>★ A E S T H E T I C ★</H2></center>
+<img src="https://images.neopets.com/items/mall_gashapon_altadorcup.gif" class="icon" style="float: left;">
+<b> {August 1st - August 30th}</b> <br><i>Current Activities:</i>
+<br>★ Begin the annual Altador Cup competition
+<br>★ Start posting to neoboards again 
+<br>★ Find hosts for events, <a href="/neomessages.phtml?type=send&recipient=rozlynnwander&subject=Interested+in+Hosting">neomail Roz</a> if interested.
+<br>★ Participate in at least one guild event.
+
+<br><br>Click links for further details, including prizes & contact information of respective staff.
+
+<br><i>If you are in need of a rank change,
+<a href="/neomessages.phtml?type=send&recipient=moondream12&subject=Guild+Rank+Change">neomail moondream12</a>.</i>
+   <br><br>
+   <div id="badges">
+<a href="/~reposessionxx#ai"><img src="http://imgur.com/AvORcBx.gif" style="margin: 3px;" title="Account Improvement"></a>
+<a href="/~AestheticLender"><img src="http://imgur.com/tre5vRc.gif" style="margin: 3px;" title="Pet Adopt/Lends"></a>
+<a href="/~Lain42784"><img src="http://imgur.com/HGKtn40.gif" style="margin: 3px;" title="Wishing Well & Trading Hub"></a>
+<a href="/~baddycoda"><img src="http://imgur.com/x98aYyP.gif" style="margin: 3px;" title="FFF"></a>
+   <a href="/browseshop.phtml?owner=quirkycorri"><img src="http://imgur.com/vSQTLWk.gif" style="margin: 3px;"></a>
+   <a href="/~odinorth"><img src="http://imgur.com/2TWR8NO.jpg" style="margin: 3px;"></a>
+   </div>
+
+<div id="bookmarks"><a href="/~crysta_ferngully#QQL">#AI</a>
+<a href="/~reposessionx#bingo">#scavengerhunt</a>
+   <a href="/~QUIRKIA">#index</a> <a href="/~AestheticLenders">#adopt/lends</a> <a href="/~baddycoda">#fff</a> <a href="/~Lain42784">#WL/TL</a> <a href="/~reposessionx#records">#prizes</a> </div><br><b>Coding by</b> © <a href="=/userlookup.phtml?user=katelynnfitz">Kate</a>,<br> Creator of Quirky ⍲esthetic & <a href="/~odinorth">⍲esthetic Creations</a>.<br><b>Content by</b><a href="=/userlookup.phtml?user=evictionnotice"> Corri
+</a><br> Current Quirky Guild Staff Team (Roz, Corri, Moon)<br>Float Art:<a href="/~Perpi">~Perpi</a><br><br>
+
+    </div></div>
