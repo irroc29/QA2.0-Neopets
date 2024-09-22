@@ -1,0 +1,250 @@
+<style>
+table, .sf {
+	display: none;
+}
+div table {
+	display: inline;
+}
+body {
+	background: #efefef;
+	font: 12pt "tahoma";
+	color: #666;
+	list-style: circle outside;
+}
+li {
+	font: 12pt "tahoma";
+	margin-top: 0;
+}
+.ca, .c1, .c2, .c3, .c4, .c5 {
+	background: #fff;
+	border: 1px solid #dadada;
+	display: block;
+}
+.ca {
+	border-left: #ffd966 solid 10px;
+}
+.c1 {
+	border-left: #f1c232 solid 10px;
+}
+.c2 {
+	border-left: #ff8200 solid 10px;
+}
+.c3 {
+	border-left: #df5b00 solid 10px;
+}
+.c4 {
+	border-left: #CC0000 solid 10px;
+}
+.c5 {
+	border-left: #990000 solid 10px;
+}
+.c3 i {
+	color: #990000;
+}
+#side a {
+	text-align: right;
+	padding: 2px;
+	margin-bottom: 5px;
+}
+#side a:hover {
+	letter-spacing: 1px;
+}
+#main, #side {
+	float: left;
+	margin: 10px;
+	height: 95%;
+}
+#side {
+	width: 185px;
+	margin: 10px;
+}
+#sideimage {
+	width: 185px;
+	height: auto;
+}
+#main {
+	width: 500px;
+	overflow: hidden;
+}
+.scroll {
+	overflow: auto;
+	height: 600px;
+	padding: 5px;
+	width: auto;
+	line-height: 14pt;
+}
+.spacer {
+	height: 1000px;
+}
+b {
+	font: 12pt "tahoma";
+	color: #888;
+	text-decoration: none;
+}
+a {
+	font: 12pt "tahoma";
+	color: #990000;
+	text-decoration: none;
+}
+a:hover {
+	color: #666;
+}
+h1 {
+	border-bottom: 3px dotted #dadada;
+	margin: 0;
+	padding: 5px;
+	font: 16pt "Tahoma" bold;
+	font-style: italic;
+}
+h2 {
+	margin: 0;
+	padding: 5px;
+	text-indent: 10px;
+	font: 16pt "Tahoma";
+	font-weight: bold;
+}
+</style><img src="http://i.imgur.com/Fa0iYzY.png" style="position: fixed; right: 0px; bottom: 0px; height: auto; width: auto; z-index: 1;"><div id="side">
+<img src="http://imgur.com/FiTwpyj.gif" id="sideimage"><a href="#Info" class="ca">Info</a>
+<a href="#Challenge" class="c1">Challenge</a>
+<a href="#Participants" class="c2">Participants</a>
+<a href="#https://www.neopets.com/neomessages.phtml?type=send&amp;recipient=evictionnotice&amp;subject=AI+Workshop" class="c3">Contact Corri</a>
+<a href="#FAQ" class="c4">FAQ</a>
+<a href="#https://www.neopets.com/guilds/guild.phtml?id=4187328" class="c5">Guild</a>
+</div>
+<div id="main">
+<div id="Info" class="ca">
+<h1>Information Page</h1>
+<div class="scroll">
+Have you been inspired to customize your pets? Improve the aesthetics of your profile? Build a background story for your character?
+<br><br>
+Welcome to Quirky Aesthetic 2.0's very first Account Improvement Workshop! This event is going to help us re-imagine our accounts, our galleries and shops, develop a story for our beloved pets, and so much more! As always, you will receive points as you complete tasks. Please feel free to skip any tasks that do not interest you, nothing is mandatory but participation is encouraged.
+	
+<br><br>This is truly an Account Improvement event like nothing we've ever done before! Here are some items we hope to help you accomplish:
+<br><br><li>Updating your user lookup</li>
+<li>Updating your gallery layout</li>
+<li>Updating your pet lookup</li>
+<li>Updating your petpage layout</li>
+<li>Creating stories for your pet(s)</li>
+<li>Creating artwork for your pet(s)</li>
+<li>Creating an aesthetic for yourself</li>
+<li>Customizing our pet(s) to match your aesthetic</li>
+	
+</div>
+</div>
+
+
+<div class="spacer"></div>
+
+
+<div id="Challenge" class="c1">
+<h1>Challenge</h1>
+<div class="scroll">
+<h2>Day 1: Let's Make a Plan!</h2>
+    Let's come with a plan! Go ahead and skim through the challenge and ask yourself the following questions:
+    <li>What is my goal with this challenge?</li>
+    <li>What do I want for my account when I complete this challenge?</li>
+    <li>What do I want for my pets?</li>
+    <li>What do I think I will have difficulty completing?</li>
+    <li>What theme do you think you'll be going with, if any?</li>
+    <li>Do you plan on writing any stories or doing any art?</li>
+    <li>Think about how you want to use this challenge to improve your account - edit this map for you!</li><br><br><h2>Day 2: Petpage Coding</h2>
+    Start coding pet page and begin incorporating your theme. Take time to map out how you want your pet page to look before you start coding. Just get the bones started, we will enhance the page later.<br><br><h2>Day 3: Character Synopsis</h2>
+    Write a rough character synopsis that is at least 1-3 sentence long. This will help us finalize our plans and let go of anything that isn't perfect. Feel free to use this time to rethink your goals and plans.<br><br><h2>Day 4: Break or Catch Up Day</h2>
+    Use this day to take a break or catch up. At this point, you should also <a href="//www.neopets.com/neomessages.phtml?type=send&amp;recipient=evictionnotice&amp;subject=AI+Workshop">Neomail Corri/evictionnotice</a> and let her know the following:<br><li>Pet Page Address: /~example</li>
+    <li>Any notes you want to include:</li><br><br><h2>Day 5: Introduction</h2>
+    How do you want to introduce your character to your audience? What information do you want to be your characters first impression? Think about things like: name, age, species, color, pronouns, physical description, any powers, personality trait, occupation, etc.<br><br><h2>Day 6: Personality</h2>
+    Think about how your character behaves, interacts with others, strong personality traits, lack of personality traits, emotions, etc. Feel free to come up with a personality chart or use the one from Inker below:<br><br><center> <textarea rows="4" cols="40"><center><div style="width: 240px; display: inline-block; margin: 10px auto;">
+<div style="text-align: left; display: inline-block;">
+Easygoing<br>
+Confident<br>
+Sociable<br>
+Clever<br>
+Modest<br>
+Pious<br>
+Charismatic<br></div>
+<div style="text-align: center; display: inline-block; margin-left: 10px; margin-right: 10px;">
+□ □ ■ □ □ <br>
+□ □ ■ □ □<br>
+□ □ ■ □ □<br>
+□ □ ■ □ □<br> 
+□ □ ■ □ □ <br>
+□ □ ■ □ □<br>
+□ □ ■ □ □ </div>
+<div style="text-align: right; display: inline-block;">
+Intolerant<br>
+Meek<br>
+Aloof<br>
+Naive<br>
+Pretentious<br>
+Agnostic<br>
+Unlikable<br></div></div>
+       </center></textarea></center>
+    Example: Confident □ □ ■ □ □ <br><br><h2>Day 7: Pet Description</h2>
+    Think about your pet species, age, name, or how you got this Neopets. Is there any significance to why its the species that it is or how you got it? Any reason for the name in particular? Write about some of the reasons you enjoy this Neopet.<br><br><h2>Day 8: Pet Goals</h2>
+    What are your pet goals? Is this pet training for battle? Reading books? Eating gourmet foods? Let us know!<br><br><h2>Day 9: Break or Catch Up Day <br><br><h2>Day 10: Show Us Your Character</h2>
+    Use your artistic abilities or dress to impress to show us your character! Think about the clothes they'd wear, the feeling of their surroundings, the energy the image puts off. Please use new artwork and try to come up with something different than you've previously done. This is supposed to challenge you!<br><br><h2>Day 11: Show Us Your Character (Part 2)</h2>
+    Can you come up with a few more outfits for your character? New Neopet Items you'd like to see? How about outfits that will match your story? Maybe show their petpets and petpetpets. Does your character work or have to wear different outfits for different ocassions?<br><br><h2>Day 12: Likes/Dislikes</h2>
+    What types of things does your character like and dislike? Anything they absolutely love or hate? Think about some quirky elements your readers might find enjoyable.<br><br><h2>Day 13: Break or Catch Up Day</h2><br><br><h2>Day 14: Family?</h2>
+    Who are your character's family? Do they have any other family members?<br><br><h2>Day 15: Friends?</h2>
+    Who are you character's friends? Do they have any friends to share adventures with?<br><br><h2>Day 16: Enemies?</h2> 
+    Does your character have any arch nemesis we can be on the look out for?<br><br><h2>Day 17: Where do they live?</h2>
+    Where do your characters live? Do they live on Earth? In Neopia? What are their daily challenges like due to their location? Is it scorching hot or freezing cold? Describe, draw, or create a map!<br><br><h2>Day 18: Break or Catch Up Day</h2><br><br><h2>Day 19: Write a Story!</h2>
+    Think about how your character started out. Does your character have an epic origin story? Do they start of livin' the simple life? Explain why and give us a little insight.<br><br><h2>Day 20: Write a Story! Part 2</h2>
+    Write out your story's key events and plot points. Skip the details for now, we can do those tomorrow. Focus on the key details.<br><br><h2>Day 21: Write a Story! Part 3</h2>
+    Finish up those fine details and dialogue points. Think about how you want your story to end. Is there an end or is it continuous? Will you end on a Cliffhanger? Did this end up being your character's origin story?
+<h2>Day 22: Break or Catch Up Day</h2><br><br><h2>Day 23: Share Your Inspiration</h2>
+    What inspired you to write this story? Was it your gallery or a random Neopet item? Was it a story in the real world? Maybe a family member of your's or your own pet? Give us your inspiration whether it's a photo, a story, a song, etc. We want to know!<br><br><h2>Day 24: Wishlists: NC</h2>
+    Use Jellyneo's wishlist to create a wishlist of your own of Neocash items. Think about whether you just want to share the link or the items themselves. <br><br><h2>Day 25: Wishlists: NP</h2>
+    Use Jellyneo's wishlist to create a wishlist of your own of Neopoint items. Think about whether you just want to share the link or the items themselves. Feel free to combine the lists or keep them separate. <br><br><h2>Day 26: Style Your Pet Lookup Part 1</h2>
+    Think about your account theme and style a pet lookup or find a template that brings you joy and fits your account theme. Do you want a cohesive look or can each pet show off their personality? Think about how you want this pet page to show trophies or goals.<br><br><h2>Day 27: Style Your Pet Lookup Part 2</h2>
+    Use this day to finish your pet lookup and make any changes to your pet page. Do you want these pages to match? Do you want them to match your lookup? We'll be doing that next! But first...<br><br><h2>Day 28: Break or Catch Up Day</h2>
+    Congrats you're halfway there!!<br><br><h2>Day 29: Style Your User Lookup</h2>
+    Think about if you want your user lookup to match your pet's lookup and pet page. Let's get started on coding or finding a lookup we like!<br><br><h2>Day 30: Style Your User Lookup</h2>
+    Continue working on your user lookup and fine tuning any details you may need to change or create.<br><br><h2>Day 31: Style Your User Lookup</h2>
+    Use this day to finish up your user lookup!<br><br><h2>Day 32: Break or Catch Up Day</h2><br><br><h2>Day 33: Style Your Gallery Part 1</h2>
+    Think about what you want to collect in your gallery and how you want your page to look. Begin coding this page or find a gallery layout that you like! Think about whether you want all of your pages to match or if they're unique and special in their own way!
+    <br><br><h2>Day 34: Style Your Gallery Part 2</h2>
+    <br><br><h2>Day 35: Style Your Gallery Part 3</h2>
+    
+    <br><br><h2>Day 36: Break or Catch Up Day</h2><br><br><h2>Day 37: Finish Coding Part 1</h2>
+    Use these next few days to finish up coding you may need or skip ahead to the art sections.<br><br><h2>Day 38: Finish Coding Part 2</h2>
+    Use these next few days to finish up coding you may need or skip ahead to the art sections.<br><br><h2>Day 39: Finish Coding Part 3</h2>
+    Use these next few days to finish up coding you may need or skip ahead to the art sections.<br><br><h2>Day 40: Break or Catch Up Day</h2><br><br><h2>Day 41: Create a Fan Art Section</h2>
+    In your pet page, create a fan art section to display work from other people.<br><br><h2>Day 42: Create Art for Someone Else</h2>
+    Create fan art for the person below you.<br><br><h2>Day 43: Create Art for Someone Else</h2>
+    Either finish your art from yesterday or create artwork for another person.<br><br></h2></div>
+</div>
+
+
+<div class="spacer"></div>
+
+
+<div id="Participants" class="c2">
+<h1>Participating Members:</h1>
+<div class="scroll">
+Your links will appear here after the first week!
+</div>
+</div>
+
+<div class="spacer"></div>
+
+<div id="FAQ" class="c4">
+<h1>FAQ</h1>
+<div class="scroll">
+<h2>What is this challenge for?</h2>
+    To help motivate us to  improve the aesthetics of our accounts, characters, galleries, shops, userlookups, etc.
+<h2>How long will this challenge take?</h2>
+    It will end after 45-60 days!
+<h2>How many points can I get?</h2>
+    You can earn up to 2000 points for completing this challenge. There are 1000 points for the first 30 days and 1000 points for completing the 2nd half. Skipping certain activities is no problem at all but only partial points will be credited.
+<h2>What can I get with my points?</h2>
+    Please check the prize shop here.
+<h2>Credits</h2>
+<a href="/~inker"><img src="http://i.postimg.cc/xjRWwr65/recreation.gif"></a><a href="/~Teamug"><img src="http://i.imgur.com/Rj7qlDL.gif" border="0"></a><a href="//www.neopets.com/~Orgrimmar"><img src="http://i.imgur.com/lJPU4.png" border="0"></a>
+    
+</div>
+</div>
+
+<div class="spacer"></div>
+
+</div><BR><BR><BR>
